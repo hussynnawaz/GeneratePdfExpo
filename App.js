@@ -15,7 +15,7 @@ export default function App() {
     <html>
       <body>
         <h1>Hi ${name}</h1>
-        <p style="color: red;">Hello. Bonjour. Hola.</p>
+        <p style="color: blue;">Hello. Bonjour. Hola.</p>
       </body>
     </html>
   `;
